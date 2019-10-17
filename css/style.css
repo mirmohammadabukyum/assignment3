@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 40px 0;
+    background-color: #d8d2d24d;
+}
+.container{
+    width: 1100px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{
+}
+nav{
+    width: 80%;
+    float: left;
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 5px 20px;
+    display:block;
+    color: #000000a8;
+}
+
+.banner-section{}
+.banner-section img{
+    width: 100%;
+    
+}
+article{
+    padding:30px
+}
+
+.blog-section{}
+article{
+    padding: 100px;
+}
+article{
+    padding: 100px;
+}
+article span{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #80808070;
+}
+article h1{
+    text-transform: capitalize;
+    font-size: 35px;
+    margin-bottom: 0;
+    color: #01010185;
+}
+article p{
+    font-size: 22px;
+    color: #0101017a;
+    text-align: justify;
+}
+article a{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #80808070;
+    text-decoration: none;
+}
+.lifestyle{
+}
+.lifestyle img{
+    width: 100%;
+    
+}
+.article2{
+    padding: 0px 100px;
+}
+.left{
+    float: left;
+    width: 46%;
+    margin-right: 70px;
+    /* padding-right: 68px; */
+}
+.left img{
+    
+}
+.left span{
+    display: block;
+    margin-top: 22px;
+    color: #010101a1;
+}
+.left h2{font-size: 30px;color: #01010182;}
+.left p{text-align: justify;font-size: 17px;color: #01010194;}
+.right{
+    float: left;
+    width: 46%;
+}
+.right img{
+    
+}
+.right span{
+    display: block;
+    margin-top: 22px;
+    color: #010101a1;
+}
+.right h2{
+    font-size: 30px;
+    color: #01010182;}
+.right p{
+color: #01010194;
+font-size: 17px;
+text-align: justify;
+}
+footer{
+    padding: 40px 0;
+    background-color: #d8d2d24d;
+}
+.terms{float: left;padding-left: 98px;}
+.privacy{
+    padding-left: 17px;
+}
+.icons{float: right;padding-right: 100px;}
+.icons span{padding: 10px;}
